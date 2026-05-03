@@ -1,0 +1,8 @@
+- name: Download essential packages
+  apt:
+    name:
+      - micro
+      - tree
+      - bash-completion
+      - git
+    state: present
