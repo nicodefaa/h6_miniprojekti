@@ -1,9 +1,9 @@
 # h6_miniprojekti
 This is a homepage repo for task h6 "miniprojekti". 
 
-This project was made as part of a Finnish school course, so it was written in Finnish.
+*This project was made as part of a Finnish school course, so it was written in Finnish.*
 
-## Aihe: Työpisteen automaattinen esivalmistelu Ansiblella
+## Linux-työpisteen automaattinen esivalmistelu Ansiblella
 
 
 
@@ -29,8 +29,8 @@ This project was made as part of a Finnish school course, so it was written in F
 
 Termien selitykset:
 
-Idempotenssi = muutoksia tapahtuu vain, jos syystemi ei ole jo halutussa tilassa
+Idempotenssi = Ajaessa muutoksia tapahtuu vain, jos järjestelmä ei ole jo halutussa tilassa.
 
-Infrastruktuuri koodina = ohjelmoitu käyttäen YAML-merkintäkieltä
+Infrastruktuuri koodina = Ohjelmoitu käyttäen YAML-merkintäkieltä ja versioitu Gitillä.
 
-Yksi totuus = lopputulos aina sama
+Yksi totuus = Halutut asetukset määritelty yhteen Ansiblen playbookiin ja lopputulos on aina sama.
