@@ -5,7 +5,12 @@ This is a homepage repo for task h6 "miniprojekti".
 
 ## Linux-työpisteen automaattinen esivalmistelu Ansiblella
 
+Ajon jälkeen työpisteellä valmiina:
 
+- Valmis hakemistorakenne
+- Tarvittavat paketit asennettuna
+- Tarvittavat tiedostot
+- Alias-komennot
 
 
 
