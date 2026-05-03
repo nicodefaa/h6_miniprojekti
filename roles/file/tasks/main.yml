@@ -1,0 +1,7 @@
+- name: create welcome.txt text file
+  copy:
+    src: welcome.txt
+    dest: /home/nico/welcome.txt
+    owner: root
+    group: root
+    mode: "0644"
