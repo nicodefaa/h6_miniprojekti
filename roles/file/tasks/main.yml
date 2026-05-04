@@ -1,6 +1,6 @@
 - name: create welcome.txt text file
   copy:
-    src: "welcome.txt"
+    src: "roles/file/files/welcome.txt"
     dest: "welcome.txt"
     owner: root
     group: root
