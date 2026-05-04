@@ -5,3 +5,15 @@
     owner: root
     group: root
     mode: "0644"
+
+- name: create workspace directories
+  file:
+    path: "/home/kayttaja/{{ item }}"
+    state: directory
+    owner: "kayttaja"
+    group: "kayttaja"
+    mode: "0755"
+  loop:
+    - work
+    - work/project1
+    - work/project2  
