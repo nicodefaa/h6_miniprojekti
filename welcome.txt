@@ -1,2 +1,14 @@
-# Onneksi olkoon! Teille on asennettu valmis työpiste.
-# Tässä toinen rivi
+Onneksi olkoon, teille on asennettu valmis työpiste!
+
+Tästä dokumentista löydät ohjeet tälle kuvitteelliselle työpisteellesi.
+
+
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
