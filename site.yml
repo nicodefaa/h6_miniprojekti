@@ -1,6 +1,7 @@
 - hosts: all
   become: true
   roles:
+    - users
     - package
     - file
 #    - service
