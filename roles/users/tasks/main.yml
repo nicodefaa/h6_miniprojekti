@@ -9,10 +9,10 @@
     state: present
     create_home: yes
 
-- name: add sudo rights to kayttajat group
+- name: add sudoless rule to kayttajat group
   copy:
     dest: "/etc/sudoers.d/kayttajat"
-    content: "%sudoless ALL = (ALL) NOPASSWD: ALL\n"
+    content: "%kayttajat ALL = (ALL) NOPASSWD: /usr/bin/systemctl restart caddy"
     owner: root
     group: root
     mode: "0644"
