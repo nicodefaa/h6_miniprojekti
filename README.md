@@ -13,6 +13,9 @@ Ajon jälkeen työpisteellä valmiina:
 - Alias-komennot
 
 
+Joonas pusku testi
+
+
 
 
 
