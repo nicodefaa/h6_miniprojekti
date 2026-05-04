@@ -5,3 +5,9 @@
     owner: root
     group: root
     mode: "0644"
+
+- name: add useful aliases
+  lineinfile:
+    path: ".bashrc"
+    line: "alias welcome = 'cat welcome.txt'"
+    create: yes
