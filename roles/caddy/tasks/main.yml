@@ -1,0 +1,12 @@
+- copy: 
+    src: "Caddyfile"
+    dest: /etc/caddy/Caddyfile
+    owner: root
+    group: root
+    mode: "0644"
+  notify: restart caddy
+
+- service:
+    name: caddy
+    state: started
+    enabled: yes
