@@ -1,4 +1,4 @@
-# h6_miniprojekti
+# h6_miniprojekti - Nico Defaa & Joonas Kalliokoski
 This is a homepage repo for task h6 "miniprojekti". 
 
 *This project was made as part of a Finnish school course, so it was written in Finnish.*
