@@ -14,8 +14,13 @@ Ajon jälkeen työpisteellä valmiina:
 
 
 
--
-
+Projektiin tarvittavat tarkat ominaisuudet:
+- pakettien asennus: tree, micro, bash-completion, caddy, git
+- Hakemistojen luonti
+- Alias-kommenot .bashrc -tiedostoon
+- Welcome.txt kopiointi kotihakemistoon
+- Caddy:n asennus (+state ja enabled) konfiguraatio ja handler restart
+- Git repon kloonaus HTTPS
 
 
 
