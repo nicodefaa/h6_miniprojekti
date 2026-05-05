@@ -25,6 +25,8 @@ Projektiin tarvittavat tarkat ominaisuudet:
 <img width="1327" height="854" alt="kuva" src="https://github.com/user-attachments/assets/7a1cc3b7-f65e-44b1-bd94-f5dbff4cc784" />
 
 <br>
+<br>
+<br>
 
 *Toinen playbook-ajo: idempotentti.*
 
