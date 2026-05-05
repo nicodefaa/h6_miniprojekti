@@ -8,11 +8,20 @@
     name: kayttaja
     state: present
     create_home: yes
+    groups: ["kayttajat"]
 
 - name: add sudoless rule to kayttajat group
   copy:
     dest: "/etc/sudoers.d/kayttajat"
     content: "%kayttajat ALL = (ALL) NOPASSWD: /usr/bin/systemctl restart caddy"
+    owner: root
+    group: root
+    mode: "0644"
+
+- name: add sudoless to tester
+  copy:
+    dest: "/etc/sudoers.d/tester"
+    content: "tester ALL = (ALL) NOPASSWD: ALL"
     owner: root
     group: root
     mode: "0644"
