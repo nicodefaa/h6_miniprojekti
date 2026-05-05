@@ -1,7 +1,7 @@
 - name: create welcome.txt text file
   copy:
     src: "roles/file/files/welcome.txt"
-    dest: "welcome.txt"
+    dest: "/home/kayttaja/welcome.txt"
     owner: root
     group: root
     mode: "0644"

@@ -1,1 +1,5 @@
-# placeholder comment
+- name: ensure caddy is running
+  service:
+    name: caddy
+    state: started
+    enabled: yes
