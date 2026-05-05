@@ -11,12 +11,22 @@ Ajon jälkeen työpisteellä valmiina:
 - Tarvittavat paketit asennettuna
 - Tarvittavat tiedostot
 
+Tehtävät toimenpiteet:
+- Luodaan ryhmä "kayttajat"
+- Luodaan käyttäjä "kayttaja" kotihakemistoineen, ja lisätään ryhmään "kayttajat"
+- Asennetaan paketit: micro, tree, bash-completion, git, caddy
+- Luodaan welcome.txt -tekstitiedosto käyttäjän "kayttaja" kotihakemistoon
+- Luodaan hakemistot work/project1 ja work/project2 käyttäjän "kayttaja" kotihakemistoon
+- Kopioidaan verkkopalvelimen oletussivu kohdekoneelle
+- Varmistetaan verkkopalvelimen (caddy) päälläolo
 
-Projektiin tarvittavat tarkat ominaisuudet:
-- pakettien asennus: tree, micro, bash-completion, caddy, git
-- Hakemistojen luonti
-- Welcome.txt kopiointi kotihakemistoon
-- Caddy:n asennus (+state ja enabled) konfiguraatio ja handler restart
+<br>
+
+*Kohdekoneet on listattu hosts.ini -tiedostossa.*
+
+<img width="378" height="157" alt="kuva" src="https://github.com/user-attachments/assets/0d325124-5d47-485f-b375-b4b7042a073d" />
+
+<br>
 
 ## Valmiin playbookin ajaminen:
 
@@ -32,6 +42,9 @@ Projektiin tarvittavat tarkat ominaisuudet:
 
 <img width="1329" height="850" alt="kuva" src="https://github.com/user-attachments/assets/c375c231-a8a9-48e0-ad6d-994fbd665cdd" />
 
+<br>
+<br>
+<br>
 
 *Lopputulos kohdekoneen kayttaja-tilillä.*
 
