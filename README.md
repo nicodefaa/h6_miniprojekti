@@ -90,3 +90,8 @@ Tehtävät toimenpiteet:
 *ansible.cfg & hosts.ini*
 
 <img width="360" height="354" alt="kuva" src="https://github.com/user-attachments/assets/5f0b45cd-9cce-4056-8fbb-01c61d80ce91" />
+
+
+<br>
+
+(Esimerkkisuoritus-video: https://www.youtube.com/watch?v=KrkEhAql5MQ)[https://www.youtube.com/watch?v=KrkEhAql5MQ]
