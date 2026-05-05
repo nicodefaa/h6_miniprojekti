@@ -22,7 +22,7 @@ Tehtävät toimenpiteet:
 
 <br>
 
-*Kohdekoneet on listattu hosts.ini -tiedostossa. Nykyiset asetukset on muutettava omiin koneisiisi sopiviksi.*
+*Kohdekoneet on listattu hosts.ini -tiedostossa. Nykyiset asetukset on muutettava omiin koneisiisi sopiviksi. Kohdekoneelle on lisätty SSH:n julkinen avain ~/.ssh/authorized_keys -tiedostoon.*
 
 <img width="378" height="157" alt="kuva" src="https://github.com/user-attachments/assets/0d325124-5d47-485f-b375-b4b7042a073d" />
 
