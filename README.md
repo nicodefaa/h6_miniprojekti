@@ -50,3 +50,43 @@ Tehtävät toimenpiteet:
 *Lopputulos kohdekoneen kayttaja-tilillä.*
 
 <img width="496" height="245" alt="kuva" src="https://github.com/user-attachments/assets/cc2a6ed0-a31f-45f3-bfcb-f66551fcc616" />
+
+
+<br>
+<br>
+
+## Dokumentaatio
+
+*Ansiblen hakemistopuu*
+
+<img width="325" height="456" alt="kuva" src="https://github.com/user-attachments/assets/05f70378-571c-4ac7-92cf-552989766921" />
+
+<br>
+
+*roles/caddy/*
+
+<img width="673" height="392" alt="kuva" src="https://github.com/user-attachments/assets/034ee8fe-56b7-40fc-bd2a-1bff4a4cd1bf" />
+
+<br>
+
+*roles/file/*
+
+<img width="543" height="554" alt="kuva" src="https://github.com/user-attachments/assets/ea065548-34bf-4e28-b7a5-e3880dccc46d" />
+
+<br>
+
+*roles/package/*
+
+<img width="478" height="187" alt="kuva" src="https://github.com/user-attachments/assets/e426de09-a788-43c5-93d6-a91af1b5511b" />
+
+<br>
+
+*roles/users/*
+
+<img width="596" height="440" alt="kuva" src="https://github.com/user-attachments/assets/a95b219d-0200-4219-b757-1788f85285a6" />
+
+<br>
+
+*ansible.cfg & hosts.ini*
+
+<img width="360" height="354" alt="kuva" src="https://github.com/user-attachments/assets/5f0b45cd-9cce-4056-8fbb-01c61d80ce91" />
