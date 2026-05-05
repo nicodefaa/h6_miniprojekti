@@ -94,4 +94,4 @@ Tehtävät toimenpiteet:
 
 <br>
 
-(Esimerkkisuoritus-video: https://www.youtube.com/watch?v=KrkEhAql5MQ)[https://www.youtube.com/watch?v=KrkEhAql5MQ]
+[Esimerkkisuoritus-video: https://www.youtube.com/watch?v=KrkEhAql5MQ](https://www.youtube.com/watch?v=KrkEhAql5MQ)
