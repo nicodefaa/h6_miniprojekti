@@ -94,4 +94,6 @@ Tehtävät toimenpiteet:
 
 <br>
 
-[Esimerkkisuoritus-video: https://www.youtube.com/watch?v=KrkEhAql5MQ](https://www.youtube.com/watch?v=KrkEhAql5MQ)
+Playbookin suoritus -video:
+
+[https://www.youtube.com/watch?v=KrkEhAql5MQ](https://www.youtube.com/watch?v=KrkEhAql5MQ)
