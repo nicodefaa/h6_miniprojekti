@@ -28,6 +28,7 @@ Tehtävät toimenpiteet:
 
 <br>
 
+
 ## Valmiin playbookin ajaminen:
 
 *Ensimmäinen playbook-ajo.*
@@ -48,24 +49,4 @@ Tehtävät toimenpiteet:
 
 *Lopputulos kohdekoneen kayttaja-tilillä.*
 
-<img width="505" height="214" alt="kuva" src="https://github.com/user-attachments/assets/254854ea-1199-434a-86c7-15b46a4d6cbf" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-Termien selitykset:
-
-Idempotenssi = Ajaessa muutoksia tapahtuu vain, jos järjestelmä ei ole jo halutussa tilassa.
-
-Infrastruktuuri koodina = Ohjelmoitu käyttäen YAML-merkintäkieltä ja versioitu Gitillä.
-
-Yksi totuus = Halutut asetukset määritelty yhteen Ansiblen playbookiin ja lopputulos on aina sama.
+<img width="496" height="245" alt="kuva" src="https://github.com/user-attachments/assets/cc2a6ed0-a31f-45f3-bfcb-f66551fcc616" />
